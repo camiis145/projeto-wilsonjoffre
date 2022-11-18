@@ -9,5 +9,16 @@ body{
   width:40%
 }
 p{
-  color: ; font-size:35 ; font-family: ;
+  color: ; font-size:40% ; font-family:
+
+}
+#caixa{
+position: relative;
+width: 940px;
+margin: 0 auto;
+}
+
+header {
+background: #66CDAA
+font: 
 }
