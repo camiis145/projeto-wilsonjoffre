@@ -3,14 +3,12 @@ body{
 }
 #linguagens{
   width: 40%
-
 }
 #exatas{
   width:40%
 }
 p{
-  color: ; font-size:40% ; font-family:
-
+  color: ; font-size:100% ; font-family:
 }
 #caixa{
 position: relative;
@@ -18,7 +16,17 @@ width: 940px;
 margin: 0 auto;
 }
 
-header {
-background: #66CDAA
-font: 
+h1{
+font-size: 400% ; font-family: cursive;
+}
+h2 {
+font-size: 150% ; font-family: sans-serif;
+
+}
+header{
+  background: #04bbfc;
+padding: 20px 0;
+}
+.frase{
+  background-color: pink ; font-size: center ; border-radius: 15px;
 }
