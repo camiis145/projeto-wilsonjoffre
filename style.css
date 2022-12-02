@@ -24,9 +24,14 @@ font-size: 150% ; font-family: sans-serif;
 
 }
 header{
-  background: #87CEFA			;
+  background: #87CEFA;
 padding: 20px 0;
 }
 .frase{
   background-color:; font-size: center ; border-radius: 15px;
+}
+.tabelinha{
+  border: 10px solid #66CDAA;
+  margin-left: 500px;
+  margin-right: 500px;
 }
