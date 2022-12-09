@@ -35,3 +35,21 @@ padding: 20px 0;
   margin-left: 500px;
   margin-right: 500px;
 }
+.tabelinha02{
+  border: 10px solid #66CDAA;
+  margin-left: 500px;
+  margin-right: 500px;
+}
+.Navegação{
+  border: 10px  solid #5F9EA0	;
+  margin-left:900px;
+  margin-right: 850px;
+}
+li{
+list-style: none;
+}
+nav a:hover {
+  color: #7B68EE;
+  font-size: 30px;
+  left: 40%;
+}
